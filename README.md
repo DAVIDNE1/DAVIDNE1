@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Lonely Client](https://discord.gg/zkEjK98xAZ)
 
-- 🌱 I’m currently learning **Java**, **C++**, **ByteCode**, **Reverse Engineering**, **Obfuscation**, **Steganography*** 
+- 🌱 I’m currently learning **Java**, **C++**, **ByteCode**, **Reverse Engineering**, **Obfuscation**, **Steganography**
 
 - 👯 I’m looking to collaborate on **Mercury Client**
 
