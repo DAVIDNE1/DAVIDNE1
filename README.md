@@ -16,7 +16,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,html,css,cloudflare,firebase,github,idea,maven,gradle,figma,mongodb,bots" />
