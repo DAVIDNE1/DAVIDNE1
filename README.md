@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Mercury Client**
 
-- 🤝 I’m currently learning **how to crack accounts**
+- 🤝 I’m currently learning **how to reverse engineer **
 
 - 📫 How to reach me **davidne**
 
